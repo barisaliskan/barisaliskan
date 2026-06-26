@@ -58,6 +58,4 @@ is used *only* for landmark localization; every metric is computed with classica
 ### 📬 Get in touch
 
 [![Email](https://img.shields.io/badge/Email-barisoriginal@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:barisoriginal@gmail.com)
-<!-- LinkedIn rozeti: URL'ini verince eklenecek
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-barisaliskan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barisaliskan/)
